@@ -1,0 +1,20 @@
+{
+  "name": "baretest-article",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "baretest test.js",
+    "jest-test": "jest __tests__/jest.test.js"
+  },
+  "keywords": [],
+  "author": "Abdulazeez Abdulazeez Adeshina <laisibizness@gmail.com> (github.com/Youngestdev)",
+  "license": "MIT",
+  "devDependencies": {
+    "baretest": "^1.0.0",
+    "jest": "^25.2.4"
+  },
+  "dependencies": {
+    "@types/jest": "^25.1.4"
+  }
+}
